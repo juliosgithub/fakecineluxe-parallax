@@ -1,0 +1,292 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Staatliches&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Staatliches&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Red+Hat+Display:wght@300&family=Staatliches&display=swap");
+body,
+html {
+  margin: 0;
+  padding: 0;
+  color: #242424;
+  font-family: sans-serif;
+  box-sizing: border-box;
+  /* overflow-x: hidden; */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 900;
+  color: #000;
+}
+
+.wrapper {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  display: block;
+  width: 100%;
+  -webkit-box-shadow: -2px -1px 27px 7px rgba(179, 170, 179, 0.623);
+  -moz-box-shadow: -2px -1px 27px 7px rgba(179, 170, 179, 0.63);
+  box-shadow: -2px -1px 27px 7px rgba(179, 170, 179, 0.637);
+}
+
+.container {
+  width: 100%;
+  max-width: 800px;
+  padding: 10px 20px;
+  position: relative;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+section.module p {
+  margin-bottom: 40px;
+  text-align: justify;
+  font-size: 1rem;
+  line-height: 1.2;
+  font-weight: lighter;
+  font-family: "Times New Roman", Times, serif;
+}
+
+section.module h2 {
+  margin-bottom: 40px;
+  font-size: 30px;
+}
+
+section.module.content {
+  padding: 70px 0;
+}
+
+section.module.parallax {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh !important;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+}
+
+/* section.module.parallax:after {
+  content: "";
+  height: 100%;
+  position: absolute;
+  z-index: 0;
+  background: -moz-linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0) 0,
+    rgba(0, 0, 0, 0) 40%,
+    #000 100%
+  );
+  background: -webkit-linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0) 0,
+    rgba(0, 0, 0, 0) 40%,
+    #000 100%
+  );
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0) 0,
+    rgba(0, 0, 0, 0) 40%,
+    #000 100%
+  );
+} */
+
+section.module.banner {
+  background-image: url("../imgs/banner.png");
+  object-fit: cover;
+}
+section.module.parallax-1 {
+  background-image: url("https://images.pexels.com/photos/8474488/pexels-photo-8474488.jpeg?auto=compress&cs=tinysrgb&h=650&w=940");
+  object-fit: cover;
+}
+section.module.parallax-2 {
+  background-image: url("https://images.pexels.com/photos/2486662/pexels-photo-2486662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+
+section.module.parallax-3 {
+  background-image: url("https://cdn.pixabay.com/photo/2017/08/16/17/53/west-2648629_960_720.jpg");
+}
+section.module.parallax-4 {
+  background-image: url("https://cdn.pixabay.com/photo/2018/01/05/22/48/couple-3064048_960_720.jpg");
+}
+section.module.parallax-5 {
+  background-image: url("https://cdn.pixabay.com/photo/2017/04/06/09/37/toy-2207781_960_720.jpg");
+}
+section.module.parallax-6 {
+  background-image: url("https://images.pexels.com/photos/886453/pexels-photo-886453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+section.module.parallax-7 {
+  background-image: url("https://cdn.pixabay.com/photo/2016/01/29/03/11/movies-1167319_960_720.jpg");
+}
+
+section.module.parallax .description-banner {
+  text-align: center;
+
+  padding: 30px 0px;
+
+  z-index: 50;
+  text-transform: uppercase;
+
+  background: rgba(175, 169, 170, 0.37);
+  width: 100%;
+  justify-content: center;
+
+  max-width: 800px;
+  margin: 0 auto;
+  border-radius: 4%;
+  position: relative;
+}
+
+section.module.parallax .description-banner .title {
+  color: rgb(250, 250, 250);
+  font-size: 62px;
+  font-family: "Oswald", sans-serif;
+  font-family: "Staatliches", cursive;
+  text-shadow: 1px 1px 0 #615f5f, 3px 5px 6px rgb(66, 66, 66);
+  text-decoration: underline;
+}
+section.module.parallax .description-banner .more-info {
+  text-align: center;
+  margin-top: 1.6rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+  padding: 0 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-shadow: 1px 1px 1px rgb(78, 77, 77);
+  line-height: 1.2;
+  color: white;
+}
+
+.prllx-opacity {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.prllx-opacity.one {
+  background-color: rgba(114, 129, 212, 0.37);
+}
+.prllx-opacity.two {
+  background-color: rgba(97, 95, 94, 0.541);
+}
+.prllx-opacity.tree {
+  background-color: rgba(204, 163, 142, 0.541);
+}
+.prllx-opacity.four {
+  background-color: rgba(230, 137, 62, 0.692);
+}
+.prllx-opacity.five {
+  background-color: rgba(78, 71, 68, 0.61);
+}
+.prllx-opacity.six {
+  background-color: rgba(100, 104, 104, 0.527);
+}
+.prllx-opacity.seven {
+  background-color: rgba(184, 90, 90, 0.527);
+}
+
+.signup,
+.prices {
+  width: 400px;
+  max-width: 400px;
+  text-align: center;
+  margin: 0 70px;
+  padding: 40px;
+  border-radius: 10px;
+  background-color: rgb(240, 240, 240);
+  border: 2px solid wheat;
+}
+.elements-banner {
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-around;
+  text-align: center;
+  z-index: 1;
+  width: 100%;
+  max-width: 1000px;
+  box-sizing: border-box;
+}
+.elements-banner h2 {
+  font-size: 1.3rem;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.elements-banner button {
+  padding: 14px;
+  border-radius: 20px;
+  outline: none;
+  border: none;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s ease-in;
+  background-image: linear-gradient(
+    rgb(66, 115, 180),
+    rgb(61, 107, 167),
+    rgb(80, 106, 175)
+  );
+}
+.elements-banner button:hover {
+  background-image: linear-gradient(
+    rgb(93, 105, 121),
+    rgb(90, 96, 104),
+    rgb(72, 75, 83)
+  );
+}
+.elements-banner p {
+  text-align: center;
+  font-size: 1rem;
+  font-style: normal;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+@media all and (max-width: 820px) {
+  section.module h2 {
+    font-size: 32px;
+  }
+  .module h2,
+  p {
+    padding: 0 8px;
+  }
+  .container {
+    margin: 0;
+    padding: 0 10px;
+    width: 100%;
+  }
+  section.module.parallax h1 {
+    font-size: 40px;
+  }
+  section.module.parallax .description-banner .title {
+    font-size: 2.3rem;
+  }
+  section.module.parallax .description-banner .more-info {
+    font-size: 0.9rem;
+  }
+}
+
+@media all and (max-width: 700px) {
+  .signup,
+  .prices {
+    display: block;
+    margin: 10px auto;
+    width: 50%;
+  }
+
+  .elements-banner {
+    width: auto;
+    display: block;
+    margin: 0 auto;
+  }
+}

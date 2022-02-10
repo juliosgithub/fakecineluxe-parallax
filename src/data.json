@@ -1,0 +1,2239 @@
+{
+   "name":"Agency Navigator",
+   "description":"",
+   "meta_data":"[]",
+   "sections":[
+      {
+         "id":"145",
+         "name":"Laying Your Foundations",
+         "order":0,
+         "meta_data":null,
+         "lessons":[
+            {
+               "id":"753",
+               "name":"Program Principals",
+               "order":0,
+               "assets":[
+                  {
+                     "id":"597996",
+                     "title":"Program Principals",
+                     "url":"https://api-files.sproutvideo.com/file/a79ddab61511efcb2e/1fa289b64598071c/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/a79ddab61511efcb2e/1fa289b64598071c",
+                     "sproutId":"a79ddab61511efcb2e",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/9e09dd58e840517cceb3f912958ec488/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  },
+                  {
+                     "id":"601622",
+                     "title":"transcript-audio",
+                     "url":"https://assets.aflete.com/assets/downloads/eKN85Iq29YTaJ808hH73nsfcx7TIxtiHl1YAJz7KI4bDH1FmEEKJ20oZf09txUK68toRUTOh4gP1yCfVM56MNYSOkf9EslJjtiU6.mp3",
+                     "embedUrl":null,
+                     "sproutId":null,
+                     "thumbnail":"https://assets.aflete.com/assets/downloads/eKN85Iq29YTaJ808hH73nsfcx7TIxtiHl1YAJz7KI4bDH1FmEEKJ20oZf09txUK68toRUTOh4gP1yCfVM56MNYSOkf9EslJjtiU6.mp3",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"[]",
+                     "asset_type":{
+                        "id":3,
+                        "name":"File",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  },
+                  {
+                     "id":"601621",
+                     "title":"transcript-txt",
+                     "url":"https://assets.aflete.com/assets/downloads/l0GQFSak4WHZ063cPwCxcChYxbqypln7ZJmLzTTchwgYQQFBN2zu4jjpK4qB0N5UYp0UHexlxPpz9YrIeD7nnqZZHNiR6fmnoBlz.txt",
+                     "embedUrl":null,
+                     "sproutId":null,
+                     "thumbnail":"https://assets.aflete.com/assets/downloads/l0GQFSak4WHZ063cPwCxcChYxbqypln7ZJmLzTTchwgYQQFBN2zu4jjpK4qB0N5UYp0UHexlxPpz9YrIeD7nnqZZHNiR6fmnoBlz.txt",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":false,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":3,
+                        "name":"File",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"756",
+               "name":"Agency 3.0 Model",
+               "order":1,
+               "assets":[
+                  {
+                     "id":"597798",
+                     "title":"Focuses Of A 3.0 Agency Owner",
+                     "url":"https://assets.aflete.com/assets/images/Prp5mcTVcvLVnUsQgJfUNV6nVGSUGqCSe6WR7xijXgQOSAFbFNyE3Ps24hVpKNTvfeET8uueRJ8A5AW08LhoY9rJApf8Si4fSRoD.jpg",
+                     "embedUrl":null,
+                     "sproutId":null,
+                     "thumbnail":"https://assets.aflete.com/assets/images/Prp5mcTVcvLVnUsQgJfUNV6nVGSUGqCSe6WR7xijXgQOSAFbFNyE3Ps24hVpKNTvfeET8uueRJ8A5AW08LhoY9rJApf8Si4fSRoD.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":2,
+                        "name":"Image",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  },
+                  {
+                     "id":"597799",
+                     "title":"Our Business Distilled Down",
+                     "url":"https://assets.aflete.com/assets/images/aJpfqRxXSJrhXLW6nFopjosc5onYqdpsp06jzwn2aBL61gKOKT1roQ7RcKS3ZvKwltzLq3lRRMN5NScetLgJRWnT1AquFUHFY0vw.jpg",
+                     "embedUrl":null,
+                     "sproutId":null,
+                     "thumbnail":"https://assets.aflete.com/assets/images/aJpfqRxXSJrhXLW6nFopjosc5onYqdpsp06jzwn2aBL61gKOKT1roQ7RcKS3ZvKwltzLq3lRRMN5NScetLgJRWnT1AquFUHFY0vw.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":2,
+                        "name":"Image",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  },
+                  {
+                     "id":"597911",
+                     "title":"Agency 3.0 Model",
+                     "url":"https://api-files.sproutvideo.com/file/449ddab61e1de8c4cd/b673359fd719196e/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/449ddab61e1de8c4cd/b673359fd719196e",
+                     "sproutId":"449ddab61e1de8c4cd",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/740a7440ede006b38e7af4fd9d1f858a/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"757",
+               "name":"Niche Discovery",
+               "order":2,
+               "assets":[
+                  {
+                     "id":"597800",
+                     "title":"Disconnect With Niche",
+                     "url":"https://assets.aflete.com/assets/images/37Agdzp55adfekjY8VhLnQCNkopYVebkdJ4P1JHxKDpyAfRtr5PUeICH3221sc6pHe7MwVRTvJfZGKxGehZwT0MD9btbklY4ixRR.jpg",
+                     "embedUrl":null,
+                     "sproutId":null,
+                     "thumbnail":"https://assets.aflete.com/assets/images/37Agdzp55adfekjY8VhLnQCNkopYVebkdJ4P1JHxKDpyAfRtr5PUeICH3221sc6pHe7MwVRTvJfZGKxGehZwT0MD9btbklY4ixRR.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":2,
+                        "name":"Image",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  },
+                  {
+                     "id":"597801",
+                     "title":"Niche Fundamental",
+                     "url":"https://assets.aflete.com/assets/images/MXoOmSXjFM0QYjTFOksyJBvzR9Yvhj7Dz8gyl6bkRLRPQ88LfqNCWkf7e03miDboZhD5747ordzkMKfZdn5sHNTacpR2J976oaQJ.jpg",
+                     "embedUrl":null,
+                     "sproutId":null,
+                     "thumbnail":"https://assets.aflete.com/assets/images/MXoOmSXjFM0QYjTFOksyJBvzR9Yvhj7Dz8gyl6bkRLRPQ88LfqNCWkf7e03miDboZhD5747ordzkMKfZdn5sHNTacpR2J976oaQJ.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":2,
+                        "name":"Image",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  },
+                  {
+                     "id":"597912",
+                     "title":"Niche Discovery",
+                     "url":"https://api-files.sproutvideo.com/file/a79ddab61e1ae4c02e/fdd88344b0c99860/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/a79ddab61e1ae4c02e/fdd88344b0c99860",
+                     "sproutId":"a79ddab61e1ae4c02e",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/b9644714d544b80a46e162e99fd99038/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/niche-research\",\"plugName\":\"Niche Research \"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"758",
+               "name":"Service Selection",
+               "order":3,
+               "assets":[
+                  {
+                     "id":"597802",
+                     "title":"Our Business, Distilled Down",
+                     "url":"https://assets.aflete.com/assets/images/FAUqIF7FflGiC92QGrtqU8a0HKP5N2A1a5bXQMdovcNLi9i9ytn4pBy1TDA4FhGuVM3q1pm6RGZCbJx388rvEYE4NqidMidNwE0n.jpg",
+                     "embedUrl":null,
+                     "sproutId":null,
+                     "thumbnail":"https://assets.aflete.com/assets/images/FAUqIF7FflGiC92QGrtqU8a0HKP5N2A1a5bXQMdovcNLi9i9ytn4pBy1TDA4FhGuVM3q1pm6RGZCbJx388rvEYE4NqidMidNwE0n.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":2,
+                        "name":"Image",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  },
+                  {
+                     "id":"597913",
+                     "title":"Service Selection",
+                     "url":"https://api-files.sproutvideo.com/file/709ddab61e1ae2c5f9/35c640560e3567c0/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/709ddab61e1ae2c5f9/35c640560e3567c0",
+                     "sproutId":"709ddab61e1ae2c5f9",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/b95cda43daf4244cb9712f9f1c5b5722/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"759",
+               "name":"Code of Honour",
+               "order":4,
+               "assets":[
+                  {
+                     "id":"597803",
+                     "title":"It's An Honour, Not A Job",
+                     "url":"https://assets.aflete.com/assets/images/PPgmmBnqttEiU2tjtvE5kEy6pBEsc7nVSQSPDf0A07t72afr0M8Bj4AjFEaxVIwNKVu0Ad1z7P5XAEfgUFgjbjt3pk57D6Xo8rZt.jpg",
+                     "embedUrl":null,
+                     "sproutId":null,
+                     "thumbnail":"https://assets.aflete.com/assets/images/PPgmmBnqttEiU2tjtvE5kEy6pBEsc7nVSQSPDf0A07t72afr0M8Bj4AjFEaxVIwNKVu0Ad1z7P5XAEfgUFgjbjt3pk57D6Xo8rZt.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":2,
+                        "name":"Image",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  },
+                  {
+                     "id":"597804",
+                     "title":"Personal Problem, Not Business Problem",
+                     "url":"https://assets.aflete.com/assets/images/7JbqqGH0XaTMbuLmOk8zBFXaHfaU2d5gBAUaQXvZ2LXyXDJ4oa0fByhekakZgWPWAqkDkTX9WidIyS6PEyaq0L8OTWXEaK1iuGSt.jpg",
+                     "embedUrl":null,
+                     "sproutId":null,
+                     "thumbnail":"https://assets.aflete.com/assets/images/7JbqqGH0XaTMbuLmOk8zBFXaHfaU2d5gBAUaQXvZ2LXyXDJ4oa0fByhekakZgWPWAqkDkTX9WidIyS6PEyaq0L8OTWXEaK1iuGSt.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":2,
+                        "name":"Image",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  },
+                  {
+                     "id":"597805",
+                     "title":"You're One Client Away",
+                     "url":"https://assets.aflete.com/assets/images/qtf7i7ZnlJKSWvjJacwhCb04FPqFrpGCYSfn3DDjF8HR0970ja2KeWfARYXz7SQRF5ncpQFP9PDh2Rgiuexumzf6uNtjU87mxfKe.jpg",
+                     "embedUrl":null,
+                     "sproutId":null,
+                     "thumbnail":"https://assets.aflete.com/assets/images/qtf7i7ZnlJKSWvjJacwhCb04FPqFrpGCYSfn3DDjF8HR0970ja2KeWfARYXz7SQRF5ncpQFP9PDh2Rgiuexumzf6uNtjU87mxfKe.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":2,
+                        "name":"Image",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  },
+                  {
+                     "id":"597914",
+                     "title":"Code of Honour",
+                     "url":"https://api-files.sproutvideo.com/file/799ddab61e1ae1c3f0/9bda77f88a5be90c/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/799ddab61e1ae1c3f0/9bda77f88a5be90c",
+                     "sproutId":"799ddab61e1ae1c3f0",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/0696384aae2fc5fdf2ff7fb906854828/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"760",
+               "name":"A Craftsman's Tools",
+               "order":5,
+               "assets":[
+                  {
+                     "id":"597997",
+                     "title":"A Craftsman's Tools",
+                     "url":"https://api-files.sproutvideo.com/file/d39ddab61517e8ce5a/a29476b1e023160e/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/d39ddab61517e8ce5a/a29476b1e023160e",
+                     "sproutId":"d39ddab61517e8ce5a",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/0faf1c949a33970296a2412414c9eb8f/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/agency-software-stack\",\"plugName\":\"Agency Software Stack \"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"761",
+               "name":"Loading The Rifle",
+               "order":6,
+               "assets":[
+                  {
+                     "id":"597864",
+                     "title":"Loading The Rifle",
+                     "url":"https://api-files.sproutvideo.com/file/069ddab71c1deacf8f/cd61926392da5fd6/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/069ddab71c1deacf8f/cd61926392da5fd6",
+                     "sproutId":"069ddab71c1deacf8f",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/7365711dc0e693d083a2be69bc530c4d/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/cleaning-your-social-profiles\",\"plugName\":\"Cleaning Your Social Profiles \"},{\"url\":\"resources/plug-and-play/fb-business-and-ad-manager\",\"plugName\":\"FB business And Ad Manager\"},{\"url\":\"resources/plug-and-play/website-setup\",\"plugName\":\"Website Setup \"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            }
+         ],
+         "__typename":"CourseItemSectionItem"
+      },
+      {
+         "id":"146",
+         "name":"Mindset",
+         "order":1,
+         "meta_data":null,
+         "lessons":[
+            {
+               "id":"754",
+               "name":"Preparing The Vessel",
+               "order":0,
+               "assets":[
+                  {
+                     "id":"597818",
+                     "title":"P2 M1_Preparing The Vessel_FINAL-004",
+                     "url":"https://api-files.sproutvideo.com/file/a79ddab41e1be7c02e/9e1244b8a2b619c0/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/a79ddab41e1be7c02e/9e1244b8a2b619c0",
+                     "sproutId":"a79ddab41e1be7c02e",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/a9534acf2b695f64262bb28f5579ee0b/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"755",
+               "name":"Mental Metamorphosis",
+               "order":1,
+               "assets":[
+                  {
+                     "id":"597796",
+                     "title":"Levels of Energy",
+                     "url":"https://assets.aflete.com/assets/images/D9Z1nM9iwOXvEeRTFPWBKM1PFbdr5a6b4h7vDr7maXdZrvvPwIT2ZKzSfVowWrlUlZSS3seQjAj67XbOI0BId5vgX3OiMEGii1II.jpg",
+                     "embedUrl":null,
+                     "sproutId":null,
+                     "thumbnail":"https://assets.aflete.com/assets/images/D9Z1nM9iwOXvEeRTFPWBKM1PFbdr5a6b4h7vDr7maXdZrvvPwIT2ZKzSfVowWrlUlZSS3seQjAj67XbOI0BId5vgX3OiMEGii1II.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":2,
+                        "name":"Image",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  },
+                  {
+                     "id":"597865",
+                     "title":"Mental Metamorphosis",
+                     "url":"https://api-files.sproutvideo.com/file/ea9ddab41f1ae3c563/6eda5cdb0792be44/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/ea9ddab41f1ae3c563/6eda5cdb0792be44",
+                     "sproutId":"ea9ddab41f1ae3c563",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/fc496a32be7086583aaf1a9aa42ccf9d/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  },
+                  {
+                     "id":"597866",
+                     "title":"What You Tolerate",
+                     "url":"https://assets.aflete.com/assets/images/3BsG8FDt8wClhTrWJRsRV8HpAP9E5YH70zWvI0OilOpl5NAdE9ivWuqdulm3Az9LyydPH6sATPrVDX3rsrbDUYHQzMZKXxVRKt99.jpg",
+                     "embedUrl":null,
+                     "sproutId":null,
+                     "thumbnail":"https://assets.aflete.com/assets/images/3BsG8FDt8wClhTrWJRsRV8HpAP9E5YH70zWvI0OilOpl5NAdE9ivWuqdulm3Az9LyydPH6sATPrVDX3rsrbDUYHQzMZKXxVRKt99.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":2,
+                        "name":"Image",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  },
+                  {
+                     "id":"597867",
+                     "title":"SBA Worksheet",
+                     "url":"https://assets.aflete.com/assets/downloads/RJpmZl9RkGOB1TIfds0vbzp7YzdGsdyKQGV6LfSNsvi6GAjdPzlsJUyHJhSxxA2cnUVQRwpnAy6PcE8lIYsN10XrhAwoShO0M5jf.pdf",
+                     "embedUrl":null,
+                     "sproutId":null,
+                     "thumbnail":"https://assets.aflete.com/assets/downloads/RJpmZl9RkGOB1TIfds0vbzp7YzdGsdyKQGV6LfSNsvi6GAjdPzlsJUyHJhSxxA2cnUVQRwpnAy6PcE8lIYsN10XrhAwoShO0M5jf.pdf",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":3,
+                        "name":"File",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"762",
+               "name":"Monk Mode",
+               "order":2,
+               "assets":[
+                  {
+                     "id":"597812",
+                     "title":"P2 M3 - Monk Mode_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/069ddab41f15efc28f/68206b2216ad448f/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/069ddab41f15efc28f/68206b2216ad448f",
+                     "sproutId":"069ddab41f15efc28f",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/3330a91ee3da8be63025ca04e6b785c9/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/monk-mode\",\"plugName\":\"Monk Mode \"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"763",
+               "name":"The War Path",
+               "order":3,
+               "assets":[
+                  {
+                     "id":"597814",
+                     "title":"P2 M4 - The War Path_FINAL (1).m4v",
+                     "url":"https://api-files.sproutvideo.com/file/d39ddab41d1fe1c55a/d6d2a07cdfe92ab9/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/d39ddab41d1fe1c55a/d6d2a07cdfe92ab9",
+                     "sproutId":"d39ddab41d1fe1c55a",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/560af8f1cf615ad7b8b28f9b6545c03f/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/6-figure-sleep\",\"plugName\":\"6-Figure Sleep\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"764",
+               "name":"Social Engineering 101",
+               "order":4,
+               "assets":[
+                  {
+                     "id":"597815",
+                     "title":"P2 M5 - Social Engineering 101_FINAL-005.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/799ddab41f14eac5f0/3629ddaee4b91f69/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/799ddab41f14eac5f0/3629ddaee4b91f69",
+                     "sproutId":"799ddab41f14eac5f0",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/264556bedd3e8f8e0a9da17896a128b0/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"765",
+               "name":"Pragmatic Day In Life",
+               "order":5,
+               "assets":[
+                  {
+                     "id":"597816",
+                     "title":"P2 M6 - Pragmatic Day In The Life_FINAL-007.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/ea9ddab41f14e3cb63/32122ba18a603f09/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/ea9ddab41f14e3cb63/32122ba18a603f09",
+                     "sproutId":"ea9ddab41f14e3cb63",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/c386f1708fa7cf7c8e05081499f27b51/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"766",
+               "name":"Keeping A Tight Ship",
+               "order":6,
+               "assets":[
+                  {
+                     "id":"597817",
+                     "title":"P2 M7 - Keeping a Tight Ship_FINAL-006.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/ea9ddab41c1fe0c063/9ca7e9dfb546e99f/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/ea9ddab41c1fe0c063/9ca7e9dfb546e99f",
+                     "sproutId":"ea9ddab41c1fe0c063",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/ba4a3b35d7ec4aea0fbc138cf24524d6/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            }
+         ],
+         "__typename":"CourseItemSectionItem"
+      },
+      {
+         "id":"149",
+         "name":"Systems & Processes",
+         "order":2,
+         "meta_data":null,
+         "lessons":[
+            {
+               "id":"794",
+               "name":"Pricing Guidelines",
+               "order":0,
+               "assets":[
+                  {
+                     "id":"598544",
+                     "title":"Base Pricing Model",
+                     "url":"https://assets.aflete.com/assets/images/LX3zdNGBdK47rRh2AiSnW6xiWIdy8aEmnIMPSJlLhV8BFbitJP9gXxMEbdQwryv6blhTLfh4XLjjOYqwCaVcyzuIpo7gTdyE57dK.jpg",
+                     "embedUrl":null,
+                     "sproutId":null,
+                     "thumbnail":"https://assets.aflete.com/assets/images/LX3zdNGBdK47rRh2AiSnW6xiWIdy8aEmnIMPSJlLhV8BFbitJP9gXxMEbdQwryv6blhTLfh4XLjjOYqwCaVcyzuIpo7gTdyE57dK.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":2,
+                        "name":"Image",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  },
+                  {
+                     "id":"598543",
+                     "title":"Base + Performance Pricing Model",
+                     "url":"https://assets.aflete.com/assets/images/TXY92SRNAjfx0LZQdpnnNfTqGcZiCJC6W97rpi6ERyIKJGJAuSRf3GFRYN707bUncrpZQgICKw5K7Mm4czrzvMdh723u5z0fNn9f.jpg",
+                     "embedUrl":null,
+                     "sproutId":null,
+                     "thumbnail":"https://assets.aflete.com/assets/images/TXY92SRNAjfx0LZQdpnnNfTqGcZiCJC6W97rpi6ERyIKJGJAuSRf3GFRYN707bUncrpZQgICKw5K7Mm4czrzvMdh723u5z0fNn9f.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":2,
+                        "name":"Image",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  },
+                  {
+                     "id":"598545",
+                     "title":"Bold Offer Pricing Model",
+                     "url":"https://assets.aflete.com/assets/images/qDjIiZow9Szd41QSWihvLBnolguhLxzPojS6sImbKwoTaxJieuCYqPx6EpMqm3J7jFg2FJHzghPWgKHV7uo8uHaknkHiQJMnB6QC.jpg",
+                     "embedUrl":null,
+                     "sproutId":null,
+                     "thumbnail":"https://assets.aflete.com/assets/images/qDjIiZow9Szd41QSWihvLBnolguhLxzPojS6sImbKwoTaxJieuCYqPx6EpMqm3J7jFg2FJHzghPWgKHV7uo8uHaknkHiQJMnB6QC.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":2,
+                        "name":"Image",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  },
+                  {
+                     "id":"598536",
+                     "title":"Pricing Guidelines",
+                     "url":"https://api-files.sproutvideo.com/file/119dd9b4191be4c998/128282db3ecb12ec/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/119dd9b4191be4c998/128282db3ecb12ec",
+                     "sproutId":"119dd9b4191be4c998",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/a56a2064aee713e352d575f780be1af3/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  },
+                  {
+                     "id":"598546",
+                     "title":"Performance Only Pricing Model",
+                     "url":"https://assets.aflete.com/assets/images/tUU3d80MMMuU0JZhCzEnpcUz6WQmdX0OhsNSffysdgdiyntTBsKT8ngvSCRK48cPOQOhFZJSmQmSFH8zBery8Y0Cf7xIPoUuQNCt.jpg",
+                     "embedUrl":null,
+                     "sproutId":null,
+                     "thumbnail":"https://assets.aflete.com/assets/images/tUU3d80MMMuU0JZhCzEnpcUz6WQmdX0OhsNSffysdgdiyntTBsKT8ngvSCRK48cPOQOhFZJSmQmSFH8zBery8Y0Cf7xIPoUuQNCt.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":2,
+                        "name":"Image",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"795",
+               "name":"Pricing Your Services For Local Businesses",
+               "order":1,
+               "assets":[
+                  {
+                     "id":"598537",
+                     "title":"Pricing Your Services For Local Businesses",
+                     "url":"https://api-files.sproutvideo.com/file/069dd9b4191be9cf8f/b4a5770eb88d48e9/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/069dd9b4191be9cf8f/b4a5770eb88d48e9",
+                     "sproutId":"069dd9b4191be9cf8f",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/44144f53f8c43adddbf4b035fd39bb53/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"796",
+               "name":"Pricing Your Services For Ecomm & Online Biz",
+               "order":2,
+               "assets":[
+                  {
+                     "id":"598592",
+                     "title":"Ecomm Biz",
+                     "url":"https://api-files.sproutvideo.com/file/d39dd9b4191fe2c15a/758fe794aff4c5a2/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/d39dd9b4191fe2c15a/758fe794aff4c5a2",
+                     "sproutId":"d39dd9b4191fe2c15a",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/0a7fedd2281b7220a44da2f0a9bdd0e9/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"797",
+               "name":"Paid Trails Playbook",
+               "order":3,
+               "assets":[
+                  {
+                     "id":"598538",
+                     "title":"Paid Trails Book",
+                     "url":"https://api-files.sproutvideo.com/file/4d9dd9b4191be5c4c4/36467ac476583ff2/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/4d9dd9b4191be5c4c4/36467ac476583ff2",
+                     "sproutId":"4d9dd9b4191be5c4c4",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/f5d7db184c1574a6a9134cee83a24940/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"798",
+               "name":"Attracting A1 Clients",
+               "order":4,
+               "assets":[
+                  {
+                     "id":"598539",
+                     "title":"Attracting A1 Clients",
+                     "url":"https://api-files.sproutvideo.com/file/ac9dd9b4191be6c225/39e934dd5f2e4ba4/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/ac9dd9b4191be6c225/39e934dd5f2e4ba4",
+                     "sproutId":"ac9dd9b4191be6c225",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/3977864a127eb05f1fb4ff85e8e14606/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"799",
+               "name":"Tax, Accounting And Finances",
+               "order":5,
+               "assets":[
+                  {
+                     "id":"598540",
+                     "title":"Accounting & Finances",
+                     "url":"https://api-files.sproutvideo.com/file/4d9dd9b4191ce7c1c4/da3ed8380e8d504c/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/4d9dd9b4191ce7c1c4/da3ed8380e8d504c",
+                     "sproutId":"4d9dd9b4191ce7c1c4",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/141e5fbd9ca0dcff96168e078df36927/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"800",
+               "name":"Getting Paid",
+               "order":6,
+               "assets":[
+                  {
+                     "id":"598541",
+                     "title":"Getting Paid",
+                     "url":"https://api-files.sproutvideo.com/file/ac9dd9b4191ce4c725/a0b70ac8c0c162d6/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/ac9dd9b4191ce4c725/a0b70ac8c0c162d6",
+                     "sproutId":"ac9dd9b4191ce4c725",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/5ba57aff27d36783d952b2f36027a485/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/getting-paid\",\"plugName\":\"Getting Paid\"},{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"801",
+               "name":"Communications + Retention",
+               "order":7,
+               "assets":[
+                  {
+                     "id":"598542",
+                     "title":"Communication + Retention",
+                     "url":"https://api-files.sproutvideo.com/file/709dd9b4191be6c6f9/c0bee5b7c4f0f7fc/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/709dd9b4191be6c6f9/c0bee5b7c4f0f7fc",
+                     "sproutId":"709dd9b4191be6c6f9",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/613c229d3f9a6f6a3fe3904dc818fb43/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"notLive\":false,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/client-communication\",\"plugName\":\"Client Communication\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            }
+         ],
+         "__typename":"CourseItemSectionItem"
+      },
+      {
+         "id":"151",
+         "name":"Finding Leads & Setting Meetings",
+         "order":3,
+         "meta_data":null,
+         "lessons":[
+            {
+               "id":"805",
+               "name":"Laws of Outreach",
+               "order":0,
+               "assets":[
+                  {
+                     "id":"598613",
+                     "title":"P4 M1 - Laws Of Outreach_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/449dd9ba171cefc4cd/db0d4187421665be/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/449dd9ba171cefc4cd/db0d4187421665be",
+                     "sproutId":"449dd9ba171cefc4cd",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/dbad377baa7a8319882fa8cbe482f528/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"806",
+               "name":"Creating An Irresistible Offer & Angle",
+               "order":1,
+               "assets":[
+                  {
+                     "id":"598610",
+                     "title":"P4 M2 - Creating an Irresistable Offer & Angle_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/069dd9ba171ce0c18f/8829575c6d66fd1a/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/069dd9ba171ce0c18f/8829575c6d66fd1a",
+                     "sproutId":"069dd9ba171ce0c18f",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/7f1116db46ccfffb8fe75e4401f9a9a4/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"807",
+               "name":"Finding Leads & Qualifying (Free)",
+               "order":2,
+               "assets":[
+                  {
+                     "id":"598609",
+                     "title":"P4 M3 - Finding Leads & Qualifying (Free)_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/ac9dd9ba171ce4c725/3042bec39f4988e7/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/ac9dd9ba171ce4c725/3042bec39f4988e7",
+                     "sproutId":"ac9dd9ba171ce4c725",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/ceed4cf8bd99399914e071a1bb2bbaa6/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/finding-leads-for-ecommerce\",\"plugName\":\"Finding Leads for eCommerce\"},{\"url\":\"resources/plug-and-play/finding-leads-for-local-businesses\",\"plugName\":\"Finding Leads for Local Businesses \"},{\"url\":\"resources/plug-and-play/how-to-qualify-clients\",\"plugName\":\"How to Qualify Clients\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"808",
+               "name":"Paid Strategies For Lead Gen",
+               "order":3,
+               "assets":[
+                  {
+                     "id":"598608",
+                     "title":"P4 M4 - Paid Stratergies For Lead Gen_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/ea9dd9ba171be8ca63/fecd1ba7bebb63ce/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/ea9dd9ba171be8ca63/fecd1ba7bebb63ce",
+                     "sproutId":"ea9dd9ba171be8ca63",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/01c0977a0e785839b767a6b76e46e73e/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"809",
+               "name":"Storing & Organising Leads",
+               "order":4,
+               "assets":[
+                  {
+                     "id":"598607",
+                     "title":"P4 M5 - Storing & Organising Leads_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/a79dd9ba171be6c52e/676b89ac46bd0ec1/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/a79dd9ba171be6c52e/676b89ac46bd0ec1",
+                     "sproutId":"a79dd9ba171be6c52e",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/60bee09a5bbd88f9c2ed718fbf0a296e/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/storing-and-organising-leads\",\"plugName\":\"Storing And Organising Leads\"},{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"810",
+               "name":"Profile Funnel",
+               "order":5,
+               "assets":[
+                  {
+                     "id":"598606",
+                     "title":"P4 M6 - Profile Funnel_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/a79dd9ba171be5c62e/4b00a8f5eccf8145/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/a79dd9ba171be5c62e/4b00a8f5eccf8145",
+                     "sproutId":"a79dd9ba171be5c62e",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/3adf80a5ec37c526de03378dff0a226b/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/profile-funnel\",\"plugName\":\"Profile Funnel \"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"811",
+               "name":"LinkedIn 101",
+               "order":6,
+               "assets":[
+                  {
+                     "id":"598612",
+                     "title":"P4 M7 - Linkedin 101_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/a79dd9ba171defca2e/ace493fbfadd24f4/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/a79dd9ba171defca2e/ace493fbfadd24f4",
+                     "sproutId":"a79dd9ba171defca2e",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/ff90896e92fde3c9ea31ccb067a4bbc3/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/creating-your-linkedin-profile\",\"plugName\":\"Creating Your LinkedIn Profile\"},{\"url\":\"resources/plug-and-play/linkedin-keywords\",\"plugName\":\"LinkedIn Keywords\"},{\"url\":\"resources/plug-and-play/linkedin-content\",\"plugName\":\"LinkedIn Content\"},{\"url\":\"resources/plug-and-play/example-linkedin-content-schedule\",\"plugName\":\"Example Linkedin Content Schedule \"},{\"url\":\"resources/plug-and-play/using-sales-navigator\",\"plugName\":\"Using Sales Navigator \"},{\"url\":\"resources/plug-and-play/sales-navigator-industry-list\",\"plugName\":\"Sales Navigator Industry List\"},{\"url\":\"resources/plug-and-play/sending-linkedin-messages\",\"plugName\":\"Sending LinkedIn Messages\"},{\"url\":\"resources/plug-and-play/linkedin-automation\",\"plugName\":\"LinkedInAutomation\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"812",
+               "name":"LinkedIn Automation",
+               "order":7,
+               "assets":[
+                  {
+                     "id":"598605",
+                     "title":"P4 M8 - Linkedin Automation_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/ea9dd9ba111be5c163/1fc0d62ab2a8aa70/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/ea9dd9ba111be5c163/1fc0d62ab2a8aa70",
+                     "sproutId":"ea9dd9ba111be5c163",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/04f2dc121a054e6f00e6fa61a19fea7a/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"813",
+               "name":"Cold Email 101",
+               "order":8,
+               "assets":[
+                  {
+                     "id":"598604",
+                     "title":"P4 M9 - Cold Email 101_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/ea9dd9ba111aeecb63/6efd5ca1e10c4cc5/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/ea9dd9ba111aeecb63/6efd5ca1e10c4cc5",
+                     "sproutId":"ea9dd9ba111aeecb63",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/4a03d1a75a18ea147fd4767df0c070bf/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/how-to-set-up-your-email-account\",\"plugName\":\"How to Set Up Your Email Account \"},{\"url\":\"resources/plug-and-play/warming-up-your-email-address\",\"plugName\":\"Warming Up Your Email Address \"},{\"url\":\"resources/plug-and-play/tracking-emails-for-manual-outreach\",\"plugName\":\"Tracking Emails for Manual Outreach \"},{\"url\":\"resources/plug-and-play/how-to-create-your-email-script\",\"plugName\":\"How To Create Your Email Script \"},{\"url\":\"resources/plug-and-play/email-personalisation\",\"plugName\":\"Email Personalisation \"},{\"url\":\"resources/plug-and-play/how-to-set-up-your-lemlist-account\",\"plugName\":\"How to Set Up Your Lemlist Account\"},{\"url\":\"resources/plug-and-play/how-to-set-up-a-lemlist-campaign\",\"plugName\":\"How To Set Up A Lemlist Campaign \"},{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"814",
+               "name":"Cold Email Automation",
+               "order":9,
+               "assets":[
+                  {
+                     "id":"598600",
+                     "title":"P4 M10 - Cold Email Automation_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/4d9dd9ba111ae0c6c4/a5e41a20312b00b3/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/4d9dd9ba111ae0c6c4/a5e41a20312b00b3",
+                     "sproutId":"4d9dd9ba111ae0c6c4",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/94f85205f2db7e3005ce793ec141d3d1/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/how-to-set-up-your-email-account\",\"plugName\":\"How to Set Up Your Email Account\"},{\"url\":\"resources/plug-and-play/warming-up-your-email-address\",\"plugName\":\"Warming Up Your Email Address\"},{\"url\":\"resources/plug-and-play/tracking-emails-for-manual-outreach\",\"plugName\":\"Tracking Emails for Manual Outreach\"},{\"url\":\"resources/plug-and-play/how-to-create-your-email-script\",\"plugName\":\"How To Create Your Email Script\"},{\"url\":\"resources/plug-and-play/email-personalisation\",\"plugName\":\"Email Personalisation \"},{\"url\":\"resources/plug-and-play/how-to-set-up-your-lemlist-account\",\"plugName\":\"How to Set Up Your Lemlist Account\"},{\"url\":\"resources/plug-and-play/how-to-set-up-a-lemlist-campaign\",\"plugName\":\"How To Set Up A Lemlist Campaign \"},{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"815",
+               "name":"UpWork",
+               "order":10,
+               "assets":[
+                  {
+                     "id":"598611",
+                     "title":"P4 M11 - Upwork_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/799dd9ba171de5c6f0/a3518f7f689f9f87/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/799dd9ba171de5c6f0/a3518f7f689f9f87",
+                     "sproutId":"799dd9ba171de5c6f0",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/69ac0e32310a298af9664d9584c44aa4/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/how-to-set-up-an-upwork-account\",\"plugName\":\"How to Set Up an Upwork Account\"},{\"url\":\"resources/plug-and-play/how-to-find-leads-upwork\",\"plugName\":\"How to Find Leads and Respond to them on Upwork\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            }
+         ],
+         "__typename":"CourseItemSectionItem"
+      },
+      {
+         "id":"154",
+         "name":"Sales & Follow Up",
+         "order":4,
+         "meta_data":null,
+         "lessons":[
+            {
+               "id":"825",
+               "name":"The Cardinal Sins Of Sales",
+               "order":0,
+               "assets":[
+                  {
+                     "id":"598733",
+                     "title":"P5 M1 - The Cardinal Sins of Sales_FINAL-005.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/119dd8b01819e0cb98/2783be7a27aa936a/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/119dd8b01819e0cb98/2783be7a27aa936a",
+                     "sproutId":"119dd8b01819e0cb98",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/5a0d00b48822d9851e9180b1b2c3d63f/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"826",
+               "name":"Sales Sub-Communication",
+               "order":1,
+               "assets":[
+                  {
+                     "id":"598734",
+                     "title":"P5 M2 - Sales Sub - Communication_FINALV2.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/a79dd8b01b1ee7c62e/0da3a0bd049896f6/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/a79dd8b01b1ee7c62e/0da3a0bd049896f6",
+                     "sproutId":"a79dd8b01b1ee7c62e",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/a8bdb2431001171422f0c5cdff9df4cd/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"827",
+               "name":"1 Call Vs 2 Call Frameworks",
+               "order":2,
+               "assets":[
+                  {
+                     "id":"598735",
+                     "title":"P5 M3 - 1 Call vs 2 Call Frameworks_FINAL-004.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/ac9dd8b01819e5c725/7ddaed31059aaae1/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/ac9dd8b01819e5c725/7ddaed31059aaae1",
+                     "sproutId":"ac9dd8b01819e5c725",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/2929934eb5ad506afff13cac8e5294ba/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"828",
+               "name":"1CC Sales Script",
+               "order":3,
+               "assets":[
+                  {
+                     "id":"598737",
+                     "title":"P5 M4 - 1CC Sales Script_FINAL-006.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/119dd8b01b17ebcd98/ed73cb7469b74a11/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/119dd8b01b17ebcd98/ed73cb7469b74a11",
+                     "sproutId":"119dd8b01b17ebcd98",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/159a764070044d5a7d12afd12736cc3e/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/1cc-sales-script\",\"plugName\":\"1CC Sales Script\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"829",
+               "name":"2CC Sales Script",
+               "order":4,
+               "assets":[
+                  {
+                     "id":"598738",
+                     "title":"P5 M5 - 2CC Sales Script_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/709dd8b0181ae0c5f9/221e8742c6fed227/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/709dd8b0181ae0c5f9/221e8742c6fed227",
+                     "sproutId":"709dd8b0181ae0c5f9",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/ca27999689e9283919713f887e8009de/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/2cc-sales-script\",\"plugName\":\"2CC Sales Script\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"830",
+               "name":"Paid Trail Methodology",
+               "order":5,
+               "assets":[
+                  {
+                     "id":"598739",
+                     "title":"P5 M6 - Paid Trail Methodology_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/799dd8b0181ae6c6f0/9435ccd7ae28fcc1/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/799dd8b0181ae6c6f0/9435ccd7ae28fcc1",
+                     "sproutId":"799dd8b0181ae6c6f0",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/a9697f321bc9608fa8cfce7f3360a8a4/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"831",
+               "name":"The Objection Obscenity",
+               "order":6,
+               "assets":[
+                  {
+                     "id":"598740",
+                     "title":"P5 M7 - The Objection Obscenity_FINAL-007.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/d39dd8b01819e7c65a/1eef1a271d9cf70d/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/d39dd8b01819e7c65a/1eef1a271d9cf70d",
+                     "sproutId":"d39dd8b01819e7c65a",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/30f1842f0cf3d5205264e941952f8fbf/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/objection-handling\",\"plugName\":\"Objection Handling\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"832",
+               "name":"Refining Approach & Sharpening Saw",
+               "order":7,
+               "assets":[
+                  {
+                     "id":"598741",
+                     "title":"P5 M8 - Refining Approach _ Sharpening Saw_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/ea9dd8b01818e3c663/76e03b39a7e5a917/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/ea9dd8b01818e3c663/76e03b39a7e5a917",
+                     "sproutId":"ea9dd8b01818e3c663",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/0a8647b66e7af53c1b1b0c0cd7f9833c/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"\",\"plugName\":\"\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            }
+         ],
+         "__typename":"CourseItemSectionItem"
+      },
+      {
+         "id":"176",
+         "name":"Service Delivery",
+         "order":5,
+         "meta_data":"{\"ProductId\":null}",
+         "lessons":[
+            
+         ],
+         "__typename":"CourseItemSectionItem"
+      },
+      {
+         "id":"164",
+         "name":"Service Delivery (Fundamentals)",
+         "order":6,
+         "meta_data":"{\"ProductId\":\"176\"}",
+         "lessons":[
+            {
+               "id":"901",
+               "name":"Kick Off & Onboarding Call",
+               "order":0,
+               "assets":[
+                  {
+                     "id":"599757",
+                     "title":"P6 S1 M1 - Kick Off & On Boarding Call_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/ea9dd7bc1d1be6c663/86ebe01b3f86058c/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/ea9dd7bc1d1be6c663/86ebe01b3f86058c",
+                     "sproutId":"ea9dd7bc1d1be6c663",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/d83022e1e96aeb0625884c1ffce91e43/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/kick-off-call\",\"plugName\":\"Kick Off Call\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"902",
+               "name":"Facebook Ads Fundamentals",
+               "order":1,
+               "assets":[
+                  {
+                     "id":"599758",
+                     "title":"P6 S1 M3 - Facebook Ad Fundamentals_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/ac9dd7bc1d1be6c025/3c4800c990dd0749/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/ac9dd7bc1d1be6c025/3c4800c990dd0749",
+                     "sproutId":"ac9dd7bc1d1be6c025",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/bf8153f439ce05f105c86bf7fd3265a7/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/facebook-ads-fundamentals\",\"plugName\":\"Facebook Ads Fundamentals\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"903",
+               "name":"Facebook Hygiene & Avoiding Bans",
+               "order":2,
+               "assets":[
+                  {
+                     "id":"599837",
+                     "title":"P6 S1 M4 - Facebook Hygiene & Avoiding Bans_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/709dd7bc1d1be7c5f9/5ada0a371380fd8a/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/709dd7bc1d1be7c5f9/5ada0a371380fd8a",
+                     "sproutId":"709dd7bc1d1be7c5f9",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/43248b3c1d463aced93a31410cd1073d/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/the-ultimate-facebook-contingency-guide\",\"plugName\":\"The Ultimate Facebook Contingency Guide\"},{\"url\":\"resources/plug-and-play/facebook-hygiene-and-avoiding-bans\",\"plugName\":\"Facebook Hygiene And Avoiding Bans\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"904",
+               "name":"All About Tracking",
+               "order":3,
+               "assets":[
+                  {
+                     "id":"599838",
+                     "title":"P6 S1 M5 - All About Tracking_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/a79dd7bc1d1be0c12e/196bd50f3f1c5924/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/a79dd7bc1d1be0c12e/196bd50f3f1c5924",
+                     "sproutId":"a79dd7bc1d1be0c12e",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/530637c2ed2cc1f1e4d4063dbfa47862/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/all-about-tracking\",\"plugName\":\"All About Tracking\"},{\"url\":\"resources/plug-and-play/fb-business-and-ad-manager\",\"plugName\":\"FB Business And Ad Manager\"},{\"url\":\"resources/plug-and-play/ios-update\",\"plugName\":\"IOS 14 Update\"},{\"url\":\"resources/plug-and-play/tag-manager-setup\",\"plugName\":\"Tag Manager Setup\"},{\"url\":\"resources/plug-and-play/the-conversion-api\",\"plugName\":\"The Conversion API\"},{\"url\":\"resources/plug-and-play/true-tracking\",\"plugName\":\"True Tracking\"},{\"url\":\"resources/plug-and-play/website-setup\",\"plugName\":\"Website Setup\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"905",
+               "name":"Funnels & Offer Fundamentals",
+               "order":4,
+               "assets":[
+                  {
+                     "id":"599839",
+                     "title":"P6 S1 M6 - Funnels & Offer Fundamentals_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/069dd7bc1d1be0c48f/2174a21daa02b3fa/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/069dd7bc1d1be0c48f/2174a21daa02b3fa",
+                     "sproutId":"069dd7bc1d1be0c48f",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/281050b1eec6d0a758aec0d8fed2740e/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/funnels-and-offer-fundamentals\",\"plugName\":\"Funnels And Offer Fundamentals\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"906",
+               "name":"Science Behind Creatives That Sells",
+               "order":6,
+               "assets":[
+                  {
+                     "id":"599840",
+                     "title":"P6 S1 M9 - Science Behind Creatives That Sells_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/4d9dd7bc1d13eec5c4/7b04d7df675d1c16/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/4d9dd7bc1d13eec5c4/7b04d7df675d1c16",
+                     "sproutId":"4d9dd7bc1d13eec5c4",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/e7bc26230952a76fdf6c50002d42e5a8/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/science-behind-creatives-that-sells\",\"plugName\":\"Science Behind Creatives That Sells \"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"907",
+               "name":"Reporting 101",
+               "order":8,
+               "assets":[
+                  {
+                     "id":"599898",
+                     "title":"P6 S1 M11 - Reporting 101_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/d39dd7bc1c19e1c75a/b444697f58cac3dd/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/d39dd7bc1c19e1c75a/b444697f58cac3dd",
+                     "sproutId":"d39dd7bc1c19e1c75a",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/a1353358acd8f6e147ea6b02fd3e8b8a/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/free-client-bible-template\",\"plugName\":\"[Free Version] Client Bible Template\"},{\"url\":\"resources/plug-and-play/client-bible\",\"plugName\":\"[Paid Version] How To Use Our Client Bible Template And Connect It With Supermetrics\"},{\"url\":\"resources/plug-and-play/reporting-101\",\"plugName\":\"Reporting 101\"},{\"url\":\"resources/plug-and-play/true-tracking\",\"plugName\":\"True Tracking\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"908",
+               "name":"Crafting Copy That Converts",
+               "order":5,
+               "assets":[
+                  {
+                     "id":"599907",
+                     "title":"P6 S1 M7 - Crafting Copy That Converts_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/a79dd7bc1c19e2c02e/8bdc451302059e25/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/a79dd7bc1c19e2c02e/8bdc451302059e25",
+                     "sproutId":"a79dd7bc1c19e2c02e",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/c1e5e2ecd4268b7e8e9bf2b7ca4e9793/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/copywriting-fundamentals\",\"plugName\":\"Copywriting: The Fundamentals\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"909",
+               "name":"How Many Of Things: Campaign Structure",
+               "order":7,
+               "assets":[
+                  {
+                     "id":"599916",
+                     "title":"P6 S1 M10 - How Many Things_ Campaign Structure_FINAL V2.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/799dd7bc1312e3c3f0/d05b455e77c78782/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/799dd7bc1312e3c3f0/d05b455e77c78782",
+                     "sproutId":"799dd7bc1312e3c3f0",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/ffe48fbc2d95867945aefd2b2d6b919d/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/how-many-of-things\",\"plugName\":\"How Many Of Things: Campaign Structure \"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"910",
+               "name":"Communication Schedule & Keeping Clients In The Loop",
+               "order":9,
+               "assets":[
+                  {
+                     "id":"599908",
+                     "title":"P6 S1 M12 - Communication Schedule & Keeping Clients In The Loop_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/709dd7bc1c19e3c2f9/40ac10d3935533cf/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/709dd7bc1c19e3c2f9/40ac10d3935533cf",
+                     "sproutId":"709dd7bc1c19e3c2f9",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/7d5962cf01c4964c9c543fdf29b51cc1/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/communication-schedule\",\"plugName\":\"Communication Schedule & Keeping Clients In The Loop\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            }
+         ],
+         "__typename":"CourseItemSectionItem"
+      },
+      {
+         "id":"165",
+         "name":"Service Delivery (How To Advertise)",
+         "order":7,
+         "meta_data":"{\"ProductId\":\"176\"}",
+         "lessons":[
+            {
+               "id":"912",
+               "name":"Traffic Warmth",
+               "order":0,
+               "assets":[
+                  {
+                     "id":"600812",
+                     "title":"P6 S2 M1 - Traffic Warmth_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/d39dd7ba1d1ceace5a/6fcfe4fd3782d5b3/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/d39dd7ba1d1ceace5a/6fcfe4fd3782d5b3",
+                     "sproutId":"d39dd7ba1d1ceace5a",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/352095d299361c616f13779ebb5f21e6/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/traffic-warmth\",\"plugName\":\"Traffic Warmth \"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"913",
+               "name":"Interest: Sizes And How To Find The Best Ones For Your Case",
+               "order":1,
+               "assets":[
+                  {
+                     "id":"600813",
+                     "title":"P6 S2 M2 - Interests - Sizes and How To fInd The Best Ones For Your Case_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/ea9dd7ba1d1ceacb63/e307feb08c911231/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/ea9dd7ba1d1ceacb63/e307feb08c911231",
+                     "sproutId":"ea9dd7ba1d1ceacb63",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/8dec8e1da5a13f157c163f6d6684cf2c/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/interests\",\"plugName\":\"Interests: Sizes And How To Find The Best Ones For Your Case\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"914",
+               "name":"Custom Audiences, Exclusions and Combinations, What Is Worth It?",
+               "order":2,
+               "assets":[
+                  {
+                     "id":"600814",
+                     "title":"P6 S2 M3 - Custom Audiences, Exclusions and Combinations, What Is Worth It__FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/d39dd7ba1d1cebcf5a/547dbf9c8b27a0ba/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/d39dd7ba1d1cebcf5a/547dbf9c8b27a0ba",
+                     "sproutId":"d39dd7ba1d1cebcf5a",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/2d3c26dcd5b7b8511888f16935ccfce6/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/custom-audiences\",\"plugName\":\"Custom Audiences, Exclusions and Combinations, What Is Worth It?\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"915",
+               "name":"Lookalike Audiences: How To and The Best Ones You Can Create",
+               "order":3,
+               "assets":[
+                  {
+                     "id":"600815",
+                     "title":"P6 S2 M4 - Lookalike audiences - How To And The Best Ones You Can Create_FINAl.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/069dd7ba1d1cebce8f/4260d60318e7ca2d/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/069dd7ba1d1cebce8f/4260d60318e7ca2d",
+                     "sproutId":"069dd7ba1d1cebce8f",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/149f653cb951cdc5f2b6fa76e5277998/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/lookalike-audiences\",\"plugName\":\"Lookalike Audiences: How To and The Best Ones You Can Create\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"916",
+               "name":"Launching Your First Ad",
+               "order":4,
+               "assets":[
+                  {
+                     "id":"600817",
+                     "title":"P6 S2 M5 - Launching Your First Ad_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/a79dd7ba1d1cebcb2e/4feace334b02791c/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/a79dd7ba1d1cebcb2e/4feace334b02791c",
+                     "sproutId":"a79dd7ba1d1cebcb2e",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/e8cec6c72115268df4ba9683c68b616d/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/launching-your-first-ad\",\"plugName\":\"Launching Your First Ad\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"917",
+               "name":"How To Test Audiences and Find Winners",
+               "order":5,
+               "assets":[
+                  {
+                     "id":"600818",
+                     "title":"P6 S2 M6 - How to Test Audiences & Find Winners_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/ea9dd7ba1d1cebca63/2db8b40f33202bec/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/ea9dd7ba1d1cebca63/2db8b40f33202bec",
+                     "sproutId":"ea9dd7ba1d1cebca63",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/a6fb3e6a91ef19fa2af3e64291e91341/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/how-to-test-audiences-and-find-winners\",\"plugName\":\"How To Test Audiences and Find Winners\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"918",
+               "name":"Load Balancing Budgets",
+               "order":6,
+               "assets":[
+                  {
+                     "id":"601069",
+                     "title":"P6 S2 M7 - Load Balacing Budgets_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/ac9dd7ba1d1de3c525/4944f6b0e43655a6/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/ac9dd7ba1d1de3c525/4944f6b0e43655a6",
+                     "sproutId":"ac9dd7ba1d1de3c525",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/bdee7326f581bd07e7d1ce2c4e493b02/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/load-balancing-budgets\",\"plugName\":\"Load Balancing Budgets\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"919",
+               "name":"Utilising CBOs",
+               "order":7,
+               "assets":[
+                  {
+                     "id":"601070",
+                     "title":"P6 S2 M8 - Utilising CBOs_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/ea9dd7ba1d1de3c363/1fb2566a340754cc/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/ea9dd7ba1d1de3c363/1fb2566a340754cc",
+                     "sproutId":"ea9dd7ba1d1de3c363",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/9c6c69453a14a22e8fd9104f009ecb16/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/utilising-cbos\",\"plugName\":\"Utilising CBO's\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"920",
+               "name":"The Two King Metrics And Their Math",
+               "order":8,
+               "assets":[
+                  {
+                     "id":"601071",
+                     "title":"P6 S2 M9 - The Two King Metrics And Their Math_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/119dd7ba1b1fe4cf98/14e7982cb87d3efc/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/119dd7ba1b1fe4cf98/14e7982cb87d3efc",
+                     "sproutId":"119dd7ba1b1fe4cf98",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/63e589e5b081d952f3d1e182729b3171/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/the-two-king-metrics-and-their-math\",\"plugName\":\"The Two King Metrics And Their Math\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"921",
+               "name":"How To Read Your Dashboard for Cold",
+               "order":9,
+               "assets":[
+                  {
+                     "id":"601072",
+                     "title":"P6 S2 M10 - How To Read Your Dashboard For Cold_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/709dd7ba1b1eefc8f9/8404060d1f31dad3/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/709dd7ba1b1eefc8f9/8404060d1f31dad3",
+                     "sproutId":"709dd7ba1b1eefc8f9",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/42c266512e7dc90680a52ac2e559761a/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/how-to-read-your-dashboard-for-cold\",\"plugName\":\"How To Read Your Dashboard for Cold\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"922",
+               "name":"Re-Targeting 101",
+               "order":10,
+               "assets":[
+                  {
+                     "id":"601073",
+                     "title":"P6 S2 M11 - Re-targeting 101_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/4d9dd7ba1b1eefc9c4/c66b9e973fcbbc8b/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/4d9dd7ba1b1eefc9c4/c66b9e973fcbbc8b",
+                     "sproutId":"4d9dd7ba1b1eefc9c4",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/d790303bc09db24b161b3c0465d9b4fc/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/re-targeting-101\",\"plugName\":\"Re-Targeting 101\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            }
+         ],
+         "__typename":"CourseItemSectionItem"
+      },
+      {
+         "id":"166",
+         "name":"Service Delivery (Local Businesses or Lead Gen)",
+         "order":8,
+         "meta_data":"{\"ProductId\":\"176\"}",
+         "lessons":[
+            {
+               "id":"925",
+               "name":"Core Concepts To Keep In Mind",
+               "order":0,
+               "assets":[
+                  {
+                     "id":"601227",
+                     "title":"P6 S3 M1 - Core Concepts to Keep In Mind_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/4d9dd7bb1512e7c2c4/61187f2afd38bba9/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/4d9dd7bb1512e7c2c4/61187f2afd38bba9",
+                     "sproutId":"4d9dd7bb1512e7c2c4",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/e3615c003befba3fe2daab810dc1056e/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/core-concepts-to-keep-in-mind\",\"plugName\":\"Core Concepts To Keep In Mind\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"926",
+               "name":"9 Funnels For Lead Gen & How To Set Them Up",
+               "order":1,
+               "assets":[
+                  {
+                     "id":"601228",
+                     "title":"P6 S3 M2 - 9 Funnels For Lead Gen & How To Set Them Up_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/119dd7bb1512e5cc98/7c80478617aa81e4/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/119dd7bb1512e5cc98/7c80478617aa81e4",
+                     "sproutId":"119dd7bb1512e5cc98",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/198259adf8e4a3f64d9b44ea1e7826c4/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/9-funnels-for-lead-gen\",\"plugName\":\"9 Funnels For Lead Gen\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"927",
+               "name":"Facebook Native vs Funnel Lead Gen: Setting Them Up",
+               "order":2,
+               "assets":[
+                  {
+                     "id":"601229",
+                     "title":"P6 S3 M3 - Facebook Native Vs Funnel Lead Gen_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/ac9dd7bb1512e5c525/f758a379911ccfa4/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/ac9dd7bb1512e5c525/f758a379911ccfa4",
+                     "sproutId":"ac9dd7bb1512e5c525",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/714e1922c28c5cbda1872b56d6f7a5e2/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/facebook-native-vs-funnel-lead-gen\",\"plugName\":\"Facebook Native vs Funnel Lead Gen: Setting Them Up\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"928",
+               "name":"Content & Creatives",
+               "order":3,
+               "assets":[
+                  {
+                     "id":"601230",
+                     "title":"P6 S3 M4 - Content & Creatives_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/449dd7bb1513edc4cd/edbf185e35f468b3/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/449dd7bb1513edc4cd/edbf185e35f468b3",
+                     "sproutId":"449dd7bb1513edc4cd",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/ae558495e624e06e8773c79c65419c41/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/content-and-creatives\",\"plugName\":\"Content & Creatives\"},{\"url\":\"resources/plug-and-play/example-ads-leadgen\",\"plugName\":\"Example Of Ads Lead Gen\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"929",
+               "name":"Automate Lead Flow to Your Client",
+               "order":4,
+               "assets":[
+                  {
+                     "id":"601245",
+                     "title":"P6 S3 M5 - Automate Lead Flow For Your Client_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/a79dd7b4171ce1c52e/d5809c2aba6ed1e1/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/a79dd7b4171ce1c52e/d5809c2aba6ed1e1",
+                     "sproutId":"a79dd7b4171ce1c52e",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/e544273dba2512b959851c92dfe4c58e/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/automate-lead-flow\",\"plugName\":\"Automate Lead Flow For Your Client\"},{\"url\":\"resources/plug-and-play/lead-automation\",\"plugName\":\"Lead Automation\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"930",
+               "name":"Industry Specific: Gyms",
+               "order":5,
+               "assets":[
+                  {
+                     "id":"601246",
+                     "title":"P6 S3 M6 - Industry Specific - Gyms_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/d39dd7b4171ce1c15a/dfcab8cac8f7eda2/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/d39dd7b4171ce1c15a/dfcab8cac8f7eda2",
+                     "sproutId":"d39dd7b4171ce1c15a",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/37ebe7403368fcb2de7461f1f938754d/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/industry-gyms\",\"plugName\":\"Industry Specific: Gyms\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"931",
+               "name":"Industry Specific: Chiropractors",
+               "order":6,
+               "assets":[
+                  {
+                     "id":"601247",
+                     "title":"P6 S3 M7 - Industry Specific - Chiropractor_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/709dd7b4171ce3c4f9/53723eaf8adfcf8a/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/709dd7b4171ce3c4f9/53723eaf8adfcf8a",
+                     "sproutId":"709dd7b4171ce3c4f9",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/97675b6efb8e118b6e09688bb7fa483f/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/industry-chiropractors\",\"plugName\":\"Industry Specific: Chiropractors \"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            }
+         ],
+         "__typename":"CourseItemSectionItem"
+      },
+      {
+         "id":"175",
+         "name":"Service Delivery (Advanced Strategies)",
+         "order":9,
+         "meta_data":"{\"ProductId\":\"176\"}",
+         "lessons":[
+            {
+               "id":"959",
+               "name":"How Facebook Works On The Inside",
+               "order":0,
+               "assets":[
+                  {
+                     "id":"601603",
+                     "title":"P6 S4 M1 - How Facebook Works On The Inside_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/4d9dd6bf1d18e5c7c4/04403319617af9db/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/4d9dd6bf1d18e5c7c4/04403319617af9db",
+                     "sproutId":"4d9dd6bf1d18e5c7c4",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/143dbfadac41451145ee0ed5a10c3e9c/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/how-fb-works-inside\",\"plugName\":\"How Facebook Works On The Inside\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"960",
+               "name":"Facebook Rules, Automations & Naming conventions",
+               "order":1,
+               "assets":[
+                  {
+                     "id":"601604",
+                     "title":"P6 S4 M2 - Facebook Rules, Automations & Naming Conventions_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/709dd6bf1a16e2c8f9/32e475e4ef1c3c36/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/709dd6bf1a16e2c8f9/32e475e4ef1c3c36",
+                     "sproutId":"709dd6bf1a16e2c8f9",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/65c041f87d1ba6b21fe3bb1cc41570d0/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/facebook-rules-automations-naming\",\"plugName\":\"Facebook Rules, Automations & Naming conventions\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"961",
+               "name":"Scaling Horizontally vs Scaling Vertically",
+               "order":2,
+               "assets":[
+                  {
+                     "id":"601605",
+                     "title":"P6 S4 M3 - Scaling Horizontally vs Scaling Vertically_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/4d9dd6bf1d18e7c5c4/8357bbb1524e81ed/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/4d9dd6bf1d18e7c5c4/8357bbb1524e81ed",
+                     "sproutId":"4d9dd6bf1d18e7c5c4",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/12ffd4ce09f51e1452335bb69ff33336/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/scaling-horiz-vs-vertical\",\"plugName\":\"Scaling Horizontally vs Scaling Vertically\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"962",
+               "name":"Google Ads Training",
+               "order":3,
+               "assets":[
+                  {
+                     "id":"601606",
+                     "title":"P6 S4 M4 - Google Ads Training_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/799dd6bf1d18e3c5f0/70146cbde2cd1602/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/799dd6bf1d18e3c5f0/70146cbde2cd1602",
+                     "sproutId":"799dd6bf1d18e3c5f0",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/174f216e4b6122b1f5d002894076a796/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/google-ads-setup\",\"plugName\":\"Getting Setup - Google Ads\"},{\"url\":\"resources/plug-and-play/google-display-network\",\"plugName\":\"Google Display Network\"},{\"url\":\"resources/plug-and-play/google-search-network\",\"plugName\":\"Google Search Network\"},{\"url\":\"resources/plug-and-play/google-shopping-campaigns\",\"plugName\":\"Google Shopping Campaigns\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            },
+            {
+               "id":"963",
+               "name":"Youtube Ads Playbook",
+               "order":4,
+               "assets":[
+                  {
+                     "id":"601607",
+                     "title":"P6 S4 M5 - Youtube Ads Playbook_FINAL.m4v",
+                     "url":"https://api-files.sproutvideo.com/file/119dd6bf1d18e0ce98/83e0c98871b6e71d/480.mp4",
+                     "embedUrl":"https://videos.sproutvideo.com/embed/119dd6bf1d18e0ce98/83e0c98871b6e71d",
+                     "sproutId":"119dd6bf1d18e0ce98",
+                     "thumbnail":"https://images.sproutvideo.com/d5d2a4b57e6ee9857983f5beeae0e292/c4e1488502f748a70e7ef3a9f983ae30/poster_frames/frame_0000.jpg",
+                     "description":null,
+                     "order":0,
+                     "meta_data":"{\"url\":null,\"lang\":null,\"isLive\":true,\"audioFile\":null,\"dateInput\":null,\"displayName\":null,\"speakerName\":[],\"plugAndPlaySlug\":[{\"url\":\"resources/plug-and-play/youtube-ads-playbook\",\"plugName\":\"YouTube Ads Playbook\"}]}",
+                     "asset_type":{
+                        "id":1,
+                        "name":"Video",
+                        "__typename":"CourseItemSectionItemAssetItemAssetType"
+                     },
+                     "__typename":"CourseItemSectionItemAssetItem"
+                  }
+               ],
+               "__typename":"CourseItemSectionItemLessonItem"
+            }
+         ],
+         "__typename":"CourseItemSectionItem"
+      }
+   ],
+   "__typename":"CourseItem",
+   "productID":"3351"
+}
